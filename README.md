@@ -1,6 +1,5 @@
-# vue-todolist
-
-> This is my game project
+# VUE-VUEX--Json-Server-RestAPI-Axios-User-Logins-width-Advanded-Todo-List
+> Dil seçenekli (i18n), Json server kullandığım ve axios ile CRUD işlemleri yaptığım ve en önemlisi üye oluşturma ve kullanıcı girişi gibi özellikleri bulunan kullanışlı bir advanded todolist geliştirdim.
 
 ## Build Setup
 
