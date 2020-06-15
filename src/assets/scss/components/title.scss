@@ -1,0 +1,14 @@
+@import "./colors";
+$fontAnton : "Anton", sans-serif;
+$fontOswald : "Oswald", sans-serif;
+
+.big-title{
+    font-family: $fontAnton;
+    font-size: 70px;
+}
+
+.title{
+    font-size: 36px;
+    font-family: $fontOswald;
+    color: $gray;
+}

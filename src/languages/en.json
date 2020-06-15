@@ -1,0 +1,27 @@
+{
+    "appTitle":"Todo App Advanced",
+    "appDesc": "Get in and add what you want to do to a single list, please remember nothing!",
+    "buttonText": "Sign up or login",
+    "userNameText": "User Login",
+    "loginDesc": "You can login to the system by entering your Username and Password.",
+    "createAccountText": "Sign Up",
+    "createAccountDesc": "You can become a member of the system by entering the information below.",
+    "userNamePlaceHolder": "User Name",
+    "passwordPlaceHolder": "Password",
+    "signIn": "Login",
+    "signUp": "Sign Up",
+    "successLogin": "Login Successful, you are being directed ..",
+    "successCreateUserLogin": "Your membership has been successfully created, logging in.",
+    "todoInputPlaceHolder": "what should you not forget ?",
+    "todoUserWelcomeText": "Welcome",
+    "signOut": "Sign Out",
+    "nullError": "Please fill all the fields",
+    "userPasswordError": "Wrong username or password",
+    "sameUserNameError": "This username has been used before",
+    "taskList" : "Todo List",
+    "completedTask" :"Completed",
+    "backTask" :"Back Task"
+}
+
+
+

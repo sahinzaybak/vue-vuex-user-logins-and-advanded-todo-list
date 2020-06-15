@@ -1,0 +1,25 @@
+@import "./colors";
+.button{
+    background-color: $purple;
+    padding: 10px 29px;
+    margin: 18px 0;
+    display: inline-block;
+    border-radius: 30px;
+    color: white;
+    font-size: 20px;
+    transition: all 0.3s;
+    &:hover{
+        background-color: $light-purple;;
+        color:white;
+    }
+    &.green{
+        background-color: $green;
+        &:hover{
+            background-color: $light-green;
+        }
+    }
+    &.redirect{
+        opacity: 0.5;
+        pointer-events: none;
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "appTitle":"ToDo List Uygulaması",
+    "appDesc": "İçeri gir ve yapmak istediklerini tek tek listeye ekle, böylece hiçbir şeyi unutma !",
+    "buttonText": "Üye ol veya Giriş yap",
+    "userNameText": "Kullanıcı Girişi",
+    "loginDesc": "Kullanıcı Adı ve Şifrenizi girerek sisteme giriş yapabilirsiniz.",
+    "createAccountText": "Üye Ol",
+    "createAccountDesc": "Aşağıdaki bilgileri girerek sisteme üye olabilirsiniz.",
+    "userNamePlaceHolder": "Kullanıcı Adı",
+    "passwordPlaceHolder": "Şifre",
+    "signIn": "Giriş Yap",
+    "signUp": "Üye Ol",
+    "successLogin": "Giriş Başarılı, yönlendiriliyorsunuz..",
+    "successCreateUserLogin": "Üyeliğiniz başarıyla oluşturuldu, şu an giriş yapılıyor..",
+    "todoInputPlaceHolder": "neleri unutmaman gerek ?",
+    "todoUserWelcomeText": "Hoşgeldin",
+    "signOut": "Çıkış Yap",
+    "nullError": "Lütfen tüm alanları doldurun",
+    "userPasswordError": "Hatalı kullanıcı adı veya şifre",
+    "sameUserNameError": "Bu kullanıcı ismi daha önce kullanılmış",
+    "taskList" : "Yapılacaklar Listesi",
+    "completedTask" :"Tamamlananlar",
+    "backTask" :"Geri Dön"
+    
+}
+
+
+

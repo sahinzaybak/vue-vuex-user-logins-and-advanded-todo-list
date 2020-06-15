@@ -1,6 +1,6 @@
 {
-  "name": "game-project",
-  "description": "This is my game project",
+  "name": "vue-todolist",
+  "description": "This is my vue todolist project",
   "version": "1.0.0",
   "author": "sahinzaybak",
   "license": "y",
@@ -11,8 +11,12 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
+    "babel-polyfill": "^6.26.0",
     "vue": "^2.5.11",
+    "vue-awesome": "^4.0.2",
+    "vue-i18n": "^8.18.2",
     "vue-router": "^3.3.2",
+    "vue-simple-line": "^1.1.1",
     "vuex": "^3.4.0"
   },
   "browserslist": [

@@ -1,4 +1,4 @@
-# game-project
+# vue-todolist
 
 > This is my game project
 
