@@ -9,6 +9,7 @@
 npm install
 
 # serve with hot reload at localhost:8080
+npm install -g json-server 
 json-server --watch db.json
 npm run dev -> other terminal
 
