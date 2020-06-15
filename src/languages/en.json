@@ -11,7 +11,7 @@
     "signIn": "Login",
     "signUp": "Sign Up",
     "successLogin": "Login Successful, you are being directed ..",
-    "successCreateUserLogin": "Your membership has been successfully created, logging in.",
+    "successCreateUserLogin": "Your membership has been successfully created, logging in...",
     "todoInputPlaceHolder": "what should you not forget ?",
     "todoUserWelcomeText": "Welcome",
     "signOut": "Sign Out",
