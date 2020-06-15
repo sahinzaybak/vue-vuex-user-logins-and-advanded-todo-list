@@ -1,6 +1,7 @@
 # VUE-VUEX Advanded Todo List
 > Dil seçenekli (Vue-i18n), Json server kullandığım ve ACİOS ile JSON CRUD işlemleri yaptığım ve en önemlisi üye oluşturma ve kullanıcı girişi gibi özellikleri bulunan kullanışlı bir advanded todolist geliştirdim.
 
+<img sec="https://media-exp1.licdn.com/dms/image/C4D22AQFpE-IKc1i37w/feedshare-shrink_2048_1536/0?e=1594857600&v=beta&t=8nCOvObsW9ZJM0h_NNp_nEcdEaPYI3ITgNM3PJhJ3sY">
 ## Build Setup
 
 ``` bash
