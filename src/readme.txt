@@ -1,5 +1,8 @@
 Kurulum:
-1) Önce JSON Server'ı çalıştırmalısınız. json-server --watch db.json
+1) Önce JSON Server'ı kurup, çalıştırmalısınız. 
++ npm install -g json-server 
++ json-server --watch db.json
+
 2) Daha sonra ayrı bir terminalde "npm run dev" komutu ile projeyi çalıştırabilirsiniz.
 
 Ufak bir not :
