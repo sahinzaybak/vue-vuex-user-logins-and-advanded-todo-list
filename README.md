@@ -8,7 +8,8 @@
 npm install
 
 # serve with hot reload at localhost:8080
-npm run dev
+json-server --watch db.json
+npm run dev -> other terminal
 
 # build for production with minification
 npm run build
